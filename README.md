@@ -1,6 +1,6 @@
 # Меня зовут Виктор!
 
-[my_photo](https://github.com/rlvictor/GitHub-Pages/blob/main/src/My_photo.jpg)
+![my_photo](https://github.com/rlvictor/GitHub-Pages/blob/main/src/My_photo.jpg)
 
 Я из Москвы.  
 Увлекаюсь созданием музыки, спортом, версткой сайтов.
